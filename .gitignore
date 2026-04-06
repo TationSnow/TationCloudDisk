@@ -1,1 +1,86 @@
-.idea
+######################################################################
+# Build tools output
+######################################################################
+
+.gradle/
+/build/
+/target/
+
+# Keep wrapper jars (Gradle & Maven)
+!gradle/wrapper/gradle-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+######################################################################
+# IDE configuration files
+######################################################################
+
+## STS (Spring Tool Suite) ##
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+
+## IntelliJ IDEA ##
+.idea/
+*.iws
+*.iml
+*.ipr
+
+## JRebel ##
+rebel.xml
+
+## NetBeans ##
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+## Node ##
+node_modules
+.vite
+
+
+######################################################################
+# Logs & temporary files
+######################################################################
+
+*.log
+*.xml.versionsBackup
+*.swp
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+######################################################################
+# OS generated files
+######################################################################
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+######################################################################
+# Java compiled files (optional but recommended)
+######################################################################
+
+*.class
+*.jar
+*.war
+*.ear
+
+######################################################################
+# Exceptions: keep specific generated files inside build directories
+# (Only needed if you intentionally commit some build outputs)
+######################################################################
+
+# NOTE: The following rules re‑include certain file types under any /build/ folder.
+# They work because the parent folder (/build/) is ignored above.
+!**/build/*.java
+!**/build/*.html
+!**/build/*.xml
