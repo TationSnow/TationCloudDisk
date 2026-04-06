@@ -9599,28 +9599,20 @@
           ]
         },
         {
-          "id": "QKCzA",
+          "id": "abqd1",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "homeNavC",
           "descendants": {
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
+            "JgFBg": {
+              "fill": "#2D5E3AFF"
             },
-            "S51r0": {
-              "fill": "#4A6B52FF"
+            "tuD79": {
+              "fill": "#FFFFFFFF"
             },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "JcXqe": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -10105,41 +10097,20 @@
           ]
         },
         {
-          "id": "T0n3b",
+          "id": "JWOeN",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
-          "name": "mobileFilesNav",
+          "name": "filesNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "W2Fm0": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "JKdfZ": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "$accent.primary"
-            },
-            "qtICs": {
-              "fill": "$foreground.inverse"
-            },
-            "S51r0": {
-              "fill": "$foreground.inverse"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "YmqWK": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -10457,40 +10428,20 @@
           ]
         },
         {
-          "id": "W3Ila",
+          "id": "xtVFz",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "previewNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "W2Fm0": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "JKdfZ": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "$accent.primary"
-            },
-            "qtICs": {
-              "fill": "$foreground.inverse"
-            },
-            "S51r0": {
-              "fill": "$foreground.inverse"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "YmqWK": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -10890,40 +10841,20 @@
           ]
         },
         {
-          "id": "bM5qc",
+          "id": "gDWnN",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "uploadNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "W2Fm0": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "JKdfZ": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "$accent.primary"
-            },
-            "qtICs": {
-              "fill": "$foreground.inverse"
-            },
-            "S51r0": {
-              "fill": "$foreground.inverse"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "YmqWK": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -11345,40 +11276,20 @@
           ]
         },
         {
-          "id": "Zi5ds",
+          "id": "50Shc",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "settingsNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
-            },
-            "S51r0": {
-              "fill": "#4A6B52FF"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "$accent.primary"
-            },
-            "8Izrx": {
-              "fill": "$foreground.inverse"
-            },
-            "CjiAg": {
-              "fill": "$foreground.inverse"
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -17272,40 +17183,20 @@
           ]
         },
         {
-          "id": "QWi1y",
+          "id": "zgGNm",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "shareNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "qsmWO": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "qbzaC": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
-            },
-            "S51r0": {
-              "fill": "#4A6B52FF"
-            },
-            "qwy0M": {
-              "fill": "$accent.primary"
-            },
-            "aaS14": {
-              "fill": "$foreground.inverse"
-            },
-            "TOqnd": {
-              "fill": "$foreground.inverse"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "3fk79": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -17528,40 +17419,20 @@
           ]
         },
         {
-          "id": "WaNfL",
+          "id": "EWYDt",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "membershipNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
-            },
-            "S51r0": {
-              "fill": "#4A6B52FF"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "$accent.primary"
-            },
-            "8Izrx": {
-              "fill": "$foreground.inverse"
-            },
-            "CjiAg": {
-              "fill": "$foreground.inverse"
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -17753,40 +17624,20 @@
           ]
         },
         {
-          "id": "iEwIV",
+          "id": "kLXcD",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
+          "name": "trashNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "W2Fm0": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "JKdfZ": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "$accent.primary"
-            },
-            "qtICs": {
-              "fill": "$foreground.inverse"
-            },
-            "S51r0": {
-              "fill": "$foreground.inverse"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "#D8E7CDFF"
-            },
-            "CjiAg": {
-              "fill": "#4A6B52FF"
+            "YmqWK": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -18628,43 +18479,20 @@
           ]
         },
         {
-          "id": "lTEGz",
+          "id": "aci68",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
-          "name": "noticeNav",
-          "x": 16,
-          "y": 468,
+          "name": "noticeNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
-            },
-            "S51r0": {
-              "fill": "#4A6B52FF"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "$accent.primary"
-            },
-            "8Izrx": {
-              "fill": "$foreground.inverse"
-            },
-            "CjiAg": {
-              "fill": "$foreground.inverse"
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -18911,43 +18739,20 @@
           ]
         },
         {
-          "id": "6skb8",
+          "id": "TDDRV",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
-          "name": "billingNav",
-          "x": 16,
-          "y": 471,
+          "name": "billingNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
-            },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
-            },
-            "S51r0": {
-              "fill": "#4A6B52FF"
-            },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
-            },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "$accent.primary"
-            },
-            "8Izrx": {
-              "fill": "$foreground.inverse"
-            },
-            "CjiAg": {
-              "fill": "$foreground.inverse"
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
@@ -19194,43 +18999,3725 @@
           ]
         },
         {
-          "id": "QGOI6",
+          "id": "xpzol",
           "type": "ref",
-          "ref": "J69Vj",
+          "ref": "ikZfx",
           "width": "fill_container",
-          "name": "versionsNav",
-          "x": 16,
-          "y": 469,
+          "name": "versionsNavC",
           "descendants": {
-            "YUQdt": {
-              "fill": "#D8E7CDFF"
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
             },
-            "bx3x6": {
-              "fill": "$foreground.secondary"
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
             },
-            "meKeB": {
-              "fill": "#4A6B52FF"
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "GfNHy",
+      "x": 13456,
+      "y": -870,
+      "name": "Component / Mobile Nav / A",
+      "reusable": true,
+      "width": 358,
+      "height": 108,
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "bkSJO",
+          "x": 0,
+          "y": 34,
+          "name": "pill",
+          "width": 358,
+          "height": 62,
+          "fill": "$surface.card",
+          "cornerRadius": 36,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "$border.soft"
+          },
+          "gap": 4,
+          "padding": 4,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "bZW1e",
+              "name": "home",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$accent.primary",
+              "cornerRadius": 26,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "jV0MZ",
+                  "name": "homeIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "home",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.inverse"
+                },
+                {
+                  "type": "text",
+                  "id": "lFUA1",
+                  "name": "homeLabel",
+                  "fill": "$foreground.inverse",
+                  "content": "首页",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
             },
-            "wGDkU": {
-              "fill": "#D8E7CDFF"
+            {
+              "type": "frame",
+              "id": "SxrUi",
+              "name": "files",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 26,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "RaHPi",
+                  "name": "filesIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "folder",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "VD3CM",
+                  "name": "filesLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "文件",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
             },
-            "S51r0": {
-              "fill": "#4A6B52FF"
+            {
+              "type": "frame",
+              "id": "9mSkl",
+              "name": "share",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 26,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "H4IDc",
+                  "name": "shareIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "share",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "ksHBO",
+                  "name": "shareLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "分享",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
             },
-            "qwy0M": {
-              "fill": "#D8E7CDFF"
+            {
+              "type": "frame",
+              "id": "4H758",
+              "name": "settings",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 26,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "x37Th",
+                  "name": "settingsIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "settings",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "imhNj",
+                  "name": "settingsLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "设置",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "DZ13b",
+          "x": 155,
+          "y": 0,
+          "name": "uploadFab",
+          "width": 48,
+          "height": 48,
+          "fill": "$accent.primary",
+          "cornerRadius": 9999,
+          "effect": {
+            "type": "shadow",
+            "shadowType": "outer",
+            "color": "#1B3A2833",
+            "offset": {
+              "x": 0,
+              "y": 10
             },
-            "TOqnd": {
-              "fill": "#4A6B52FF"
-            },
-            "ICrlZ": {
-              "fill": "$accent.primary"
-            },
-            "8Izrx": {
+            "blur": 22
+          },
+          "layout": "vertical",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "icon_font",
+              "id": "HAhXk",
+              "name": "uploadIcon",
+              "width": 22,
+              "height": 22,
+              "iconFontName": "add",
+              "iconFontFamily": "Material Symbols Rounded",
               "fill": "$foreground.inverse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "krFUn",
+      "x": 13850,
+      "y": -870,
+      "name": "Component / Mobile Nav / B",
+      "reusable": true,
+      "width": 358,
+      "height": 104,
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "9CFtK",
+          "x": 0,
+          "y": 36,
+          "name": "leftRail",
+          "width": 170,
+          "height": 58,
+          "fill": "$surface.card",
+          "cornerRadius": 30,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "$border.soft"
+          },
+          "gap": 4,
+          "padding": 4,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "eoium",
+              "name": "home",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$accent.primary",
+              "cornerRadius": 24,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "8qQ2i",
+                  "name": "homeIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "home",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.inverse"
+                },
+                {
+                  "type": "text",
+                  "id": "gLYzC",
+                  "name": "homeLabel",
+                  "fill": "$foreground.inverse",
+                  "content": "首页",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
             },
-            "CjiAg": {
+            {
+              "type": "frame",
+              "id": "eiR5H",
+              "name": "files",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 24,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "qBi1s",
+                  "name": "filesIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "folder",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "zGPjN",
+                  "name": "filesLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "文件",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "kukNG",
+          "x": 188,
+          "y": 36,
+          "name": "rightRail",
+          "width": 170,
+          "height": 58,
+          "fill": "$surface.card",
+          "cornerRadius": 30,
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "$border.soft"
+          },
+          "gap": 4,
+          "padding": 4,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "ym8PG",
+              "name": "share",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 24,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "McRxx",
+                  "name": "shareIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "share",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "wV0Zo",
+                  "name": "shareLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "分享",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "D87ar",
+              "name": "settings",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "$surface.ghost",
+              "cornerRadius": 24,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "ReAIT",
+                  "name": "settingsIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "settings",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "jzSKl",
+                  "name": "settingsLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "设置",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "7nSqv",
+          "x": 149,
+          "y": 0,
+          "name": "uploadCore",
+          "width": 60,
+          "height": 60,
+          "fill": "$accent.primary",
+          "cornerRadius": 30,
+          "effect": {
+            "type": "shadow",
+            "shadowType": "outer",
+            "color": "#1B3A2833",
+            "offset": {
+              "x": 0,
+              "y": 10
+            },
+            "blur": 22
+          },
+          "layout": "vertical",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "icon_font",
+              "id": "fvQrR",
+              "name": "uploadIcon",
+              "width": 24,
+              "height": 24,
+              "iconFontName": "add",
+              "iconFontFamily": "Material Symbols Rounded",
               "fill": "$foreground.inverse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ikZfx",
+      "x": 14244,
+      "y": -870,
+      "name": "Component / Mobile Nav / C",
+      "reusable": true,
+      "width": 358,
+      "height": 64,
+      "layout": "none",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ErmTn",
+          "x": 0,
+          "y": 0,
+          "name": "tray",
+          "width": 358,
+          "height": 64,
+          "fill": "$surface.card",
+          "stroke": {
+            "align": "inside",
+            "thickness": 1,
+            "fill": "$border.soft"
+          },
+          "gap": 6,
+          "padding": [
+            6,
+            8
+          ],
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "JgFBg",
+              "name": "home",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "#00000000",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "tuD79",
+                  "name": "homeIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "home",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "JcXqe",
+                  "name": "homeLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "首页",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "W2Fm0",
+              "name": "files",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "#00000000",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "JKdfZ",
+                  "name": "filesIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "folder",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "YmqWK",
+                  "name": "filesLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "文件",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "OpGgu",
+              "name": "uploadSlot",
+              "width": 56,
+              "height": "fill_container",
+              "layout": "vertical",
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "6mFl0",
+                  "name": "uploadChip",
+                  "width": 42,
+                  "height": 42,
+                  "fill": "$accent.primary",
+                  "cornerRadius": 9999,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "rtFsH",
+                      "name": "uploadIcon",
+                      "width": 18,
+                      "height": 18,
+                      "iconFontName": "add",
+                      "iconFontFamily": "Material Symbols Rounded",
+                      "fill": "$foreground.inverse"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "qsmWO",
+              "name": "share",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "#00000000",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "qbzaC",
+                  "name": "shareIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "share",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "3fk79",
+                  "name": "shareLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "分享",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "1CGYp",
+              "name": "settings",
+              "width": "fill_container",
+              "height": "fill_container",
+              "fill": "#00000000",
+              "cornerRadius": 22,
+              "layout": "vertical",
+              "gap": 4,
+              "padding": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "wCR2X",
+                  "name": "settingsIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "settings",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.secondary"
+                },
+                {
+                  "type": "text",
+                  "id": "IEeUb",
+                  "name": "settingsLabel",
+                  "fill": "$foreground.secondary",
+                  "content": "设置",
+                  "fontFamily": "Geist",
+                  "fontSize": 10,
+                  "fontWeight": "700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "S4Tuf",
+      "x": 13456,
+      "y": -700,
+      "name": "Component / Mobile Detail Header",
+      "reusable": true,
+      "width": 358,
+      "layout": "vertical",
+      "gap": 12,
+      "children": [
+        {
+          "type": "frame",
+          "id": "SMUa1",
+          "name": "top",
+          "width": "fill_container",
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "9xrLx",
+              "name": "backBtn",
+              "fill": "$surface.ghost",
+              "cornerRadius": 9999,
+              "gap": 8,
+              "padding": [
+                10,
+                12
+              ],
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "icon_font",
+                  "id": "0sFgJ",
+                  "name": "backIcon",
+                  "width": 18,
+                  "height": 18,
+                  "iconFontName": "arrow_back",
+                  "iconFontFamily": "Material Symbols Rounded",
+                  "fill": "$foreground.primary"
+                },
+                {
+                  "type": "text",
+                  "id": "XMRWk",
+                  "name": "backLabel",
+                  "fill": "$foreground.primary",
+                  "content": "返回",
+                  "fontFamily": "Geist",
+                  "fontSize": 12,
+                  "fontWeight": "700"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "fbSkA",
+              "name": "actions",
+              "gap": 8,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "uQbhs",
+                  "name": "primaryAction",
+                  "fill": "$surface.ghost",
+                  "cornerRadius": 9999,
+                  "gap": 6,
+                  "padding": [
+                    8,
+                    10
+                  ],
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "f1Jrs",
+                      "name": "actionLabel",
+                      "fill": "$foreground.primary",
+                      "content": "帮助",
+                      "fontFamily": "Geist",
+                      "fontSize": 11,
+                      "fontWeight": "700"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "yjipo",
+                  "name": "moreBtn",
+                  "width": 34,
+                  "height": 34,
+                  "fill": "$surface.ghost",
+                  "cornerRadius": 9999,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon_font",
+                      "id": "Vu2B2",
+                      "name": "moreIcon",
+                      "width": 18,
+                      "height": 18,
+                      "iconFontName": "more_horiz",
+                      "iconFontFamily": "Material Symbols Rounded",
+                      "fill": "$foreground.primary"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ZqvB8",
+          "name": "textBlock",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 4,
+          "children": [
+            {
+              "type": "text",
+              "id": "KEDJq",
+              "name": "eyebrow",
+              "fill": "$foreground.secondary",
+              "content": "详情",
+              "fontFamily": "Geist",
+              "fontSize": 11,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "1Ezv6",
+              "name": "title",
+              "fill": "$foreground.primary",
+              "content": "详情标题",
+              "fontFamily": "Geist",
+              "fontSize": 24,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "GhNyH",
+              "name": "subtitle",
+              "fill": "$foreground.secondary",
+              "textGrowth": "fixed-width",
+              "width": "fill_container",
+              "content": "用于展示当前页面的关键说明与下一步动作。",
+              "fontFamily": "Geist",
+              "fontSize": 12,
+              "fontWeight": "normal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "lwTER",
+      "x": 13860,
+      "y": -700,
+      "name": "Component / Mobile Detail Card",
+      "reusable": true,
+      "width": 358,
+      "fill": "$surface.panel",
+      "cornerRadius": 22,
+      "layout": "vertical",
+      "gap": 8,
+      "padding": 16,
+      "children": [
+        {
+          "type": "text",
+          "id": "YpWCT",
+          "name": "eyebrow",
+          "fill": "$foreground.secondary",
+          "content": "概览",
+          "fontFamily": "Geist",
+          "fontSize": 11,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "z5XEe",
+          "name": "title",
+          "fill": "$foreground.primary",
+          "content": "卡片标题",
+          "fontFamily": "Geist",
+          "fontSize": 16,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "dxp38",
+          "name": "body",
+          "fill": "$foreground.secondary",
+          "textGrowth": "fixed-width",
+          "width": "fill_container",
+          "content": "用于承载说明、摘要、风险提示或操作上下文。",
+          "fontFamily": "Geist",
+          "fontSize": 12,
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "I0Kwn",
+      "x": 14280,
+      "y": -700,
+      "name": "Component / Mobile Meta Row",
+      "reusable": true,
+      "width": 358,
+      "justifyContent": "space_between",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "text",
+          "id": "3DsHd",
+          "name": "label",
+          "fill": "$foreground.secondary",
+          "content": "标签",
+          "fontFamily": "Geist",
+          "fontSize": 12,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "j0Bhe",
+          "name": "value",
+          "fill": "$foreground.primary",
+          "content": "值",
+          "fontFamily": "Geist",
+          "fontSize": 12,
+          "fontWeight": "700"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "XrIHt",
+      "x": 14680,
+      "y": -700,
+      "name": "Component / Mobile Action Bar",
+      "reusable": true,
+      "width": 358,
+      "gap": 8,
+      "children": [
+        {
+          "type": "frame",
+          "id": "rlOkb",
+          "name": "secondary",
+          "width": "fill_container",
+          "fill": "$surface.ghost",
+          "cornerRadius": 9999,
+          "padding": [
+            12,
+            14
+          ],
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "EPOJY",
+              "name": "secondaryLabel",
+              "fill": "$foreground.primary",
+              "content": "次要操作",
+              "fontFamily": "Geist",
+              "fontSize": 12,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "L0hBx",
+          "name": "primary",
+          "width": "fill_container",
+          "fill": "$accent.primary",
+          "cornerRadius": 9999,
+          "padding": [
+            12,
+            14
+          ],
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "gZ71e",
+              "name": "primaryLabel",
+              "fill": "$foreground.inverse",
+              "content": "主操作",
+              "fontFamily": "Geist",
+              "fontSize": 12,
+              "fontWeight": "700"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "S2PZR",
+      "x": 13097,
+      "y": 3906,
+      "name": "Mobile / Nav Variants",
+      "clip": true,
+      "width": 920,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 24,
+      "padding": 24,
+      "children": [
+        {
+          "type": "text",
+          "id": "OaIbQ",
+          "name": "navBoardTitleA",
+          "fill": "#1B3A28FF",
+          "content": "移动端底部导航方案对比",
+          "fontFamily": "Geist",
+          "fontSize": 30,
+          "fontWeight": "700"
+        },
+        {
+          "type": "text",
+          "id": "4jJol",
+          "name": "navBoardSubA",
+          "fill": "#4A6B52FF",
+          "content": "固定一级结构为 首页 / 文件 / 分享 / 设置 + 上传，C 作为最终选定方案应用到移动主流程页面；A/B 保留用于风格对照。",
+          "fontFamily": "Geist",
+          "fontSize": 14,
+          "fontWeight": "normal"
+        },
+        {
+          "type": "frame",
+          "id": "VYWqJ",
+          "name": "navRowA",
+          "width": "fill_container",
+          "layout": "vertical",
+          "gap": 20,
+          "children": [
+            {
+              "type": "frame",
+              "id": "7bH7O",
+              "name": "navCardA",
+              "width": "fill_container",
+              "fill": "#FFFFFFE6",
+              "cornerRadius": 28,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#D6E4CAFF"
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "BIiql",
+                  "name": "navATitleA",
+                  "fill": "#1B3A28FF",
+                  "content": "Variant A / Floating Dock",
+                  "fontFamily": "Geist",
+                  "fontSize": 22,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "7KJp2",
+                  "name": "navACopyA",
+                  "fill": "#4A6B52FF",
+                  "content": "品牌感最强，浮动胶囊和上传主按钮识别度最高，适合作为主流程推荐方案。",
+                  "fontFamily": "Geist",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "WMqnK",
+                  "name": "navASampleA",
+                  "width": "fill_container",
+                  "height": 280,
+                  "fill": "#F5F3EEFF",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": 24,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "id": "WNJRx",
+                      "type": "ref",
+                      "ref": "GfNHy",
+                      "name": "navAInstA",
+                      "descendants": {
+                        "bZW1e": {
+                          "fill": "#EAF2E4FF"
+                        },
+                        "jV0MZ": {
+                          "fill": "#4A6B52FF"
+                        },
+                        "lFUA1": {
+                          "fill": "#4A6B52FF"
+                        },
+                        "SxrUi": {
+                          "fill": "#2D5E3AFF"
+                        },
+                        "RaHPi": {
+                          "fill": "#FFFFFFFF"
+                        },
+                        "VD3CM": {
+                          "fill": "#FFFFFFFF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "2jRY5",
+              "name": "navCardB",
+              "width": "fill_container",
+              "fill": "#FFFFFFE6",
+              "cornerRadius": 28,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#D6E4CAFF"
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "RQXaz",
+                  "name": "navBTitleA",
+                  "fill": "#1B3A28FF",
+                  "content": "Variant B / Split Rail",
+                  "fontFamily": "Geist",
+                  "fontSize": 22,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "4eq5W",
+                  "name": "navBCopyA",
+                  "fill": "#4A6B52FF",
+                  "content": "结构更规整，左右分轨带来更强秩序感，适合偏产品化、信息更重的移动界面。",
+                  "fontFamily": "Geist",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "WKgEr",
+                  "name": "navBSampleA",
+                  "width": "fill_container",
+                  "height": 280,
+                  "fill": "#F5F3EEFF",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": 24,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "id": "VIoAC",
+                      "type": "ref",
+                      "ref": "krFUn",
+                      "name": "navBInstA",
+                      "descendants": {
+                        "eoium": {
+                          "fill": "#EAF2E4FF"
+                        },
+                        "8qQ2i": {
+                          "fill": "#4A6B52FF"
+                        },
+                        "gLYzC": {
+                          "fill": "#4A6B52FF"
+                        },
+                        "eiR5H": {
+                          "fill": "#2D5E3AFF"
+                        },
+                        "qBi1s": {
+                          "fill": "#FFFFFFFF"
+                        },
+                        "zGPjN": {
+                          "fill": "#FFFFFFFF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "VaQql",
+              "name": "navCardC",
+              "width": "fill_container",
+              "fill": "#EAF2E4FF",
+              "cornerRadius": 28,
+              "stroke": {
+                "align": "inside",
+                "thickness": 1,
+                "fill": "#D6E4CAFF"
+              },
+              "layout": "vertical",
+              "gap": 12,
+              "padding": 20,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "VIutT",
+                  "name": "navCTitleA",
+                  "fill": "#1B3A28FF",
+                  "content": "Variant C / Utility Tray · 已选用",
+                  "fontFamily": "Geist",
+                  "fontSize": 22,
+                  "fontWeight": "700"
+                },
+                {
+                  "type": "text",
+                  "id": "BbOUC",
+                  "name": "navCCopyA",
+                  "fill": "#4A6B52FF",
+                  "content": "当前最终采用方案。最外层改为直角边框，中间上传按钮仅保留图标，整体更轻量、更安静。",
+                  "fontFamily": "Geist",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "frame",
+                  "id": "08EOb",
+                  "name": "navCSampleA",
+                  "width": "fill_container",
+                  "height": 280,
+                  "fill": "#F5F3EEFF",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "gap": 16,
+                  "padding": 24,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "id": "8Gmu3",
+                      "type": "ref",
+                      "ref": "ikZfx",
+                      "name": "navCShow",
+                      "descendants": {
+                        "W2Fm0": {
+                          "fill": "#2D5E3AFF"
+                        },
+                        "JKdfZ": {
+                          "fill": "#FFFFFFFF"
+                        },
+                        "YmqWK": {
+                          "fill": "#FFFFFFFF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "K0PQa",
+      "x": 11400,
+      "y": 5600,
+      "name": "Mobile / File Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "bB44E",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "fileHeaderB",
+          "descendants": {
+            "XMRWk": {
+              "content": "文件"
+            },
+            "f1Jrs": {
+              "content": "打开预览"
+            },
+            "KEDJq": {
+              "content": "文件"
+            },
+            "1Ezv6": {
+              "content": "方案说明.pdf"
+            },
+            "GhNyH": {
+              "content": "最近从“项目交付 / 方案定稿”进入，可继续预览、查看权限或追踪版本。"
+            }
+          }
+        },
+        {
+          "id": "1W8gx",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "fileCardB1",
+          "descendants": {
+            "YpWCT": {
+              "content": "摘要"
+            },
+            "z5XEe": {
+              "content": "当前状态"
+            },
+            "dxp38": {
+              "content": "文件已加密并共享给 3 位协作者，最近更新于今天 09:42，当前版本为 v5。"
+            }
+          }
+        },
+        {
+          "id": "0fBUx",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "fileCardB2",
+          "descendants": {
+            "YpWCT": {
+              "content": "权限"
+            },
+            "z5XEe": {
+              "content": "访问与来源"
+            },
+            "dxp38": {
+              "content": "查看权限已开启，下载受控，来源于 MacBook Pro 的自动同步文件夹。"
+            }
+          }
+        },
+        {
+          "id": "QgtXR",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "fileMetaB1",
+          "descendants": {
+            "3DsHd": {
+              "content": "文件类型"
+            },
+            "j0Bhe": {
+              "content": "PDF · 24 MB"
+            }
+          }
+        },
+        {
+          "id": "5LNJ0",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "fileMetaB2",
+          "descendants": {
+            "3DsHd": {
+              "content": "所在位置"
+            },
+            "j0Bhe": {
+              "content": "项目交付 / 方案定稿"
+            }
+          }
+        },
+        {
+          "id": "qVGKn",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "fileActionB",
+          "descendants": {
+            "EPOJY": {
+              "content": "查看版本"
+            },
+            "gZ71e": {
+              "content": "打开预览"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "ekPA8",
+      "x": 11813,
+      "y": 5600,
+      "name": "Mobile / File Filters",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "gHJpw",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "filterHeaderB",
+          "descendants": {
+            "XMRWk": {
+              "content": "文件"
+            },
+            "f1Jrs": {
+              "content": "应用"
+            },
+            "KEDJq": {
+              "content": "文件浏览"
+            },
+            "1Ezv6": {
+              "content": "排序与筛选"
+            },
+            "GhNyH": {
+              "content": "为项目资料夹配置更高密度的网格浏览方式，默认采用文件夹优先逻辑。"
+            }
+          }
+        },
+        {
+          "id": "GYoD5",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "filterCardB1",
+          "descendants": {
+            "YpWCT": {
+              "content": "当前策略"
+            },
+            "z5XEe": {
+              "content": "双列效率网格"
+            },
+            "dxp38": {
+              "content": "按最近更新排序，双列卡片展示，文件夹固定在顶部，便于多文件快速浏览。"
+            }
+          }
+        },
+        {
+          "id": "srRYu",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "filterCardB2",
+          "descendants": {
+            "YpWCT": {
+              "content": "筛选器"
+            },
+            "z5XEe": {
+              "content": "聚焦当前工作集"
+            },
+            "dxp38": {
+              "content": "可按文件类型、大小区间、加密状态和最近访问时间快速收窄结果。"
+            }
+          }
+        },
+        {
+          "id": "P9a4q",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "filterMetaB1",
+          "descendants": {
+            "3DsHd": {
+              "content": "排序"
+            },
+            "j0Bhe": {
+              "content": "最近更新"
+            }
+          }
+        },
+        {
+          "id": "oMEd0",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "filterMetaB2",
+          "descendants": {
+            "3DsHd": {
+              "content": "当前筛选"
+            },
+            "j0Bhe": {
+              "content": "PDF + 已加密 + 7 天内"
+            }
+          }
+        },
+        {
+          "id": "kTIBn",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "filterActionB",
+          "descendants": {
+            "EPOJY": {
+              "content": "重置"
+            },
+            "gZ71e": {
+              "content": "应用条件"
+            }
+          }
+        },
+        {
+          "id": "ZTej5",
+          "type": "ref",
+          "ref": "ikZfx",
+          "width": "fill_container",
+          "name": "filterNavC",
+          "height": 64,
+          "flipX": false,
+          "flipY": false,
+          "x": 16,
+          "y": 548,
+          "textGrowth": "auto",
+          "descendants": {
+            "W2Fm0": {
+              "fill": "#2D5E3AFF"
+            },
+            "JKdfZ": {
+              "fill": "#FFFFFFFF"
+            },
+            "YmqWK": {
+              "fill": "#FFFFFFFF"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "d3Iga",
+      "x": 12220,
+      "y": 5600,
+      "name": "Mobile / Bulk Actions",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "dJgmJ",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "bulkHeaderB",
+          "descendants": {
+            "XMRWk": {
+              "content": "文件"
+            },
+            "f1Jrs": {
+              "content": "继续"
+            },
+            "KEDJq": {
+              "content": "批量操作"
+            },
+            "1Ezv6": {
+              "content": "已选中 3 个文件"
+            },
+            "GhNyH": {
+              "content": "可以直接移动、分享或统一加密处理，避免逐个进入详情页。"
+            }
+          }
+        },
+        {
+          "id": "nHGu2",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "bulkCardB1",
+          "descendants": {
+            "YpWCT": {
+              "content": "当前选择"
+            },
+            "z5XEe": {
+              "content": "包含交付、规范与演示素材"
+            },
+            "dxp38": {
+              "content": "已选中 方案说明.pdf、品牌规范.zip、演示视频.mp4，适合一次性移动到新的交付资料夹。"
+            }
+          }
+        },
+        {
+          "id": "O2ZI6",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "bulkCardB2",
+          "descendants": {
+            "YpWCT": {
+              "content": "风险提示"
+            },
+            "z5XEe": {
+              "content": "批量动作会保留版本语义"
+            },
+            "dxp38": {
+              "content": "批量移动不会丢失版本记录，批量删除会统一进入回收站并保留 30 天。"
+            }
+          }
+        },
+        {
+          "id": "7goWT",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "bulkMetaB1",
+          "descendants": {
+            "3DsHd": {
+              "content": "目标位置"
+            },
+            "j0Bhe": {
+              "content": "客户交付 / 2026Q2"
+            }
+          }
+        },
+        {
+          "id": "LrAMQ",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "bulkMetaB2",
+          "descendants": {
+            "3DsHd": {
+              "content": "共享状态"
+            },
+            "j0Bhe": {
+              "content": "1 个已分享，2 个私有"
+            }
+          }
+        },
+        {
+          "id": "qJtOO",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "bulkActionB",
+          "descendants": {
+            "EPOJY": {
+              "content": "移动到"
+            },
+            "gZ71e": {
+              "content": "批量分享"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "YHcjf",
+      "x": 12630,
+      "y": 5600,
+      "name": "Mobile / Unlock Help",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "D3f0t",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "unlockHeaderB",
+          "descendants": {
+            "XMRWk": {
+              "content": "预览"
+            },
+            "f1Jrs": {
+              "content": "重新输入"
+            },
+            "KEDJq": {
+              "content": "预览与解锁"
+            },
+            "1Ezv6": {
+              "content": "解锁帮助"
+            },
+            "GhNyH": {
+              "content": "品牌规范.zip 当前需要密钥验证，最近一次失败请求来自 iPhone 15。"
+            }
+          }
+        },
+        {
+          "id": "Up793",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "unlockCardB1",
+          "descendants": {
+            "YpWCT": {
+              "content": "失败原因"
+            },
+            "z5XEe": {
+              "content": "当前密钥与版本不匹配"
+            },
+            "dxp38": {
+              "content": "输入的访问码对应的是旧版链接，文件所有者已在昨天更新加密密钥。"
+            }
+          }
+        },
+        {
+          "id": "XQaBG",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "unlockCardB2",
+          "descendants": {
+            "YpWCT": {
+              "content": "找回路径"
+            },
+            "z5XEe": {
+              "content": "先看提示，再联系分享者"
+            },
+            "dxp38": {
+              "content": "可查看密钥提示、联系分享者重新发送访问码，或在会员中心启用常用设备信任。"
+            }
+          }
+        },
+        {
+          "id": "0HnhE",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "unlockMetaB1",
+          "descendants": {
+            "3DsHd": {
+              "content": "密钥提示"
+            },
+            "j0Bhe": {
+              "content": "品牌手册年份 + 部门缩写"
+            }
+          }
+        },
+        {
+          "id": "C4rfk",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "unlockMetaB2",
+          "descendants": {
+            "3DsHd": {
+              "content": "剩余尝试"
+            },
+            "j0Bhe": {
+              "content": "2 次"
+            }
+          }
+        },
+        {
+          "id": "uEhd0",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "unlockActionB",
+          "descendants": {
+            "EPOJY": {
+              "content": "联系分享者"
+            },
+            "gZ71e": {
+              "content": "重新输入"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "GWrSj",
+      "x": 13040,
+      "y": 5600,
+      "name": "Mobile / File Meta",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "9jjtG",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "metaHeaderC",
+          "descendants": {
+            "XMRWk": {
+              "content": "预览"
+            },
+            "f1Jrs": {
+              "content": "下载摘要"
+            },
+            "KEDJq": {
+              "content": "预览与解锁"
+            },
+            "1Ezv6": {
+              "content": "文件元信息"
+            },
+            "GhNyH": {
+              "content": "面向当前预览中的方案说明.pdf，集中查看格式、最近修改与访问权限。"
+            }
+          }
+        },
+        {
+          "id": "VaPNR",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "metaCardC1",
+          "descendants": {
+            "YpWCT": {
+              "content": "格式"
+            },
+            "z5XEe": {
+              "content": "预览文件概览"
+            },
+            "dxp38": {
+              "content": "PDF 格式，24 MB，含 12 页版式与审批备注，支持在线预览和版本回溯。"
+            }
+          }
+        },
+        {
+          "id": "FSCt5",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "metaCardC2",
+          "descendants": {
+            "YpWCT": {
+              "content": "访问"
+            },
+            "z5XEe": {
+              "content": "最近修改与权限"
+            },
+            "dxp38": {
+              "content": "最近一次修改来自桌面端，移动端当前拥有查看与评论权限，下载仍需管理员批准。"
+            }
+          }
+        },
+        {
+          "id": "boPzu",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "metaRowC1",
+          "descendants": {
+            "3DsHd": {
+              "content": "最近修改"
+            },
+            "j0Bhe": {
+              "content": "今天 09:42"
+            }
+          }
+        },
+        {
+          "id": "T8or4",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "metaRowC2",
+          "descendants": {
+            "3DsHd": {
+              "content": "访问权限"
+            },
+            "j0Bhe": {
+              "content": "查看 + 评论"
+            }
+          }
+        },
+        {
+          "id": "peUUc",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "metaActionC",
+          "descendants": {
+            "EPOJY": {
+              "content": "返回预览"
+            },
+            "gZ71e": {
+              "content": "下载摘要"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "FTsdH",
+      "x": 13450,
+      "y": 5600,
+      "name": "Mobile / Upload Task Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "Eqilm",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "uploadHeaderC",
+          "descendants": {
+            "XMRWk": {
+              "content": "上传"
+            },
+            "f1Jrs": {
+              "content": "继续上传"
+            },
+            "KEDJq": {
+              "content": "上传中心"
+            },
+            "1Ezv6": {
+              "content": "上传任务详情"
+            },
+            "GhNyH": {
+              "content": "演示视频.mp4 正在通过移动网络续传，支持断点续传与失败重试。"
+            }
+          }
+        },
+        {
+          "id": "YC41U",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "uploadCardC1",
+          "descendants": {
+            "YpWCT": {
+              "content": "状态时间线"
+            },
+            "z5XEe": {
+              "content": "已完成校验并进入续传"
+            },
+            "dxp38": {
+              "content": "09:18 开始上传，09:19 网络切换，09:22 自动进入断点续传，当前正在补传剩余片段。"
+            }
+          }
+        },
+        {
+          "id": "w9AZM",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "uploadCardC2",
+          "descendants": {
+            "YpWCT": {
+              "content": "失败处理"
+            },
+            "z5XEe": {
+              "content": "任务可安全重试"
+            },
+            "dxp38": {
+              "content": "如果再次失败，系统会保留已完成分片并提示你切回 Wi-Fi 后继续，不需要重新选择文件。"
+            }
+          }
+        },
+        {
+          "id": "T1Pjm",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "uploadRowC1",
+          "descendants": {
+            "3DsHd": {
+              "content": "进度"
+            },
+            "j0Bhe": {
+              "content": "68% · 预计 2 分钟"
+            }
+          }
+        },
+        {
+          "id": "KZj5i",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "uploadRowC2",
+          "descendants": {
+            "3DsHd": {
+              "content": "上传设备"
+            },
+            "j0Bhe": {
+              "content": "iPhone 15 · 5G"
+            }
+          }
+        },
+        {
+          "id": "k7IVp",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "uploadActionC",
+          "descendants": {
+            "EPOJY": {
+              "content": "取消任务"
+            },
+            "gZ71e": {
+              "content": "继续上传"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "VjKDQ",
+      "x": 11400,
+      "y": 6300,
+      "name": "Mobile / Encryption Settings",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "3TjjU",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "encHeaderC",
+          "descendants": {
+            "XMRWk": {
+              "content": "上传"
+            },
+            "f1Jrs": {
+              "content": "保存设置"
+            },
+            "KEDJq": {
+              "content": "上传中心"
+            },
+            "1Ezv6": {
+              "content": "加密上传设置"
+            },
+            "GhNyH": {
+              "content": "决定移动端新上传文件是否默认加密，以及密钥如何在设备间同步。"
+            }
+          }
+        },
+        {
+          "id": "uiHKS",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "encCardC1",
+          "descendants": {
+            "YpWCT": {
+              "content": "默认策略"
+            },
+            "z5XEe": {
+              "content": "新文件默认开启加密"
+            },
+            "dxp38": {
+              "content": "上传完成后立即写入加密状态，分享前仍可进一步设置密码、有效期和访问范围。"
+            }
+          }
+        },
+        {
+          "id": "oFdx0",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "encCardC2",
+          "descendants": {
+            "YpWCT": {
+              "content": "会员限制"
+            },
+            "z5XEe": {
+              "content": "SVIP 支持设备间密钥同步"
+            },
+            "dxp38": {
+              "content": "会员可以在手机、桌面和平板间同步可信设备与密钥提示，普通用户仅保留本机缓存。"
+            }
+          }
+        },
+        {
+          "id": "o4JIY",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "encRowC1",
+          "descendants": {
+            "3DsHd": {
+              "content": "默认加密"
+            },
+            "j0Bhe": {
+              "content": "已开启"
+            }
+          }
+        },
+        {
+          "id": "gFv0J",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "encRowC2",
+          "descendants": {
+            "3DsHd": {
+              "content": "密钥同步"
+            },
+            "j0Bhe": {
+              "content": "云端钥匙串"
+            }
+          }
+        },
+        {
+          "id": "ZpkPx",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "encActionC",
+          "descendants": {
+            "EPOJY": {
+              "content": "恢复默认"
+            },
+            "gZ71e": {
+              "content": "保存设置"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "QXI3V",
+      "x": 11810,
+      "y": 6300,
+      "name": "Mobile / Share Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "UTRmb",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "shareHeaderC",
+          "descendants": {
+            "XMRWk": {
+              "content": "分享"
+            },
+            "f1Jrs": {
+              "content": "复制链接"
+            },
+            "KEDJq": {
+              "content": "分享管理"
+            },
+            "1Ezv6": {
+              "content": "分享详情"
+            },
+            "GhNyH": {
+              "content": "当前外链面向客户审阅场景，可追踪访问、复制与下载行为。"
+            }
+          }
+        },
+        {
+          "id": "fv8KE",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "shareCardC1",
+          "descendants": {
+            "YpWCT": {
+              "content": "链接状态"
+            },
+            "z5XEe": {
+              "content": "外链已开启密码保护"
+            },
+            "dxp38": {
+              "content": "链接有效期 7 天，仅允许查看，密码最近一次在今天 08:00 更新。"
+            }
+          }
+        },
+        {
+          "id": "qkU6O",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "shareCardC2",
+          "descendants": {
+            "YpWCT": {
+              "content": "访问活动"
+            },
+            "z5XEe": {
+              "content": "已有 3 次查看行为"
+            },
+            "dxp38": {
+              "content": "最近一次访问来自张三的浏览器端，系统已记录查看时间、复制行为与下载尝试。"
+            }
+          }
+        },
+        {
+          "id": "yeodA",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "shareRowC1",
+          "descendants": {
+            "3DsHd": {
+              "content": "有效期"
+            },
+            "j0Bhe": {
+              "content": "剩余 7 天"
+            }
+          }
+        },
+        {
+          "id": "z3YwT",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "shareRowC2",
+          "descendants": {
+            "3DsHd": {
+              "content": "访问范围"
+            },
+            "j0Bhe": {
+              "content": "仅查看，不可下载"
+            }
+          }
+        },
+        {
+          "id": "cp9fD",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "shareActionC",
+          "descendants": {
+            "EPOJY": {
+              "content": "停用链接"
+            },
+            "gZ71e": {
+              "content": "复制链接"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "k3VXS",
+      "x": 12220,
+      "y": 6300,
+      "name": "Mobile / Recipient Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "j8fkq",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "recipientHeaderD",
+          "descendants": {
+            "XMRWk": {
+              "content": "分享"
+            },
+            "f1Jrs": {
+              "content": "发送提醒"
+            },
+            "KEDJq": {
+              "content": "分享管理"
+            },
+            "1Ezv6": {
+              "content": "接收人详情"
+            },
+            "GhNyH": {
+              "content": "张三正在通过外链审阅项目报价.pdf，可继续追踪查看与复制行为。"
+            }
+          }
+        },
+        {
+          "id": "IpuEU",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "recipientCardD1",
+          "descendants": {
+            "YpWCT": {
+              "content": "访问轨迹"
+            },
+            "z5XEe": {
+              "content": "已查看并停留 6 分钟"
+            },
+            "dxp38": {
+              "content": "张三今天 08:15 打开链接，浏览了全部页面，但未触发下载和评论动作。"
+            }
+          }
+        },
+        {
+          "id": "o1CmH",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "recipientCardD2",
+          "descendants": {
+            "YpWCT": {
+              "content": "权限"
+            },
+            "z5XEe": {
+              "content": "当前仅允许查看"
+            },
+            "dxp38": {
+              "content": "如果需要补充下载或评论权限，可以在分享详情中即时调整，无需重建链接。"
+            }
+          }
+        },
+        {
+          "id": "FK6Td",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "recipientRowD1",
+          "descendants": {
+            "3DsHd": {
+              "content": "最近查看"
+            },
+            "j0Bhe": {
+              "content": "今天 08:15"
+            }
+          }
+        },
+        {
+          "id": "yhwfr",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "recipientRowD2",
+          "descendants": {
+            "3DsHd": {
+              "content": "设备"
+            },
+            "j0Bhe": {
+              "content": "Chrome / Windows"
+            }
+          }
+        },
+        {
+          "id": "P6HNL",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "recipientActionD",
+          "descendants": {
+            "EPOJY": {
+              "content": "移除访问"
+            },
+            "gZ71e": {
+              "content": "发送提醒"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Lv8YM",
+      "x": 12630,
+      "y": 6300,
+      "name": "Mobile / Subscription Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "KqJ9R",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "subHeaderD",
+          "descendants": {
+            "XMRWk": {
+              "content": "会员"
+            },
+            "f1Jrs": {
+              "content": "调整套餐"
+            },
+            "KEDJq": {
+              "content": "会员中心"
+            },
+            "1Ezv6": {
+              "content": "订阅详情"
+            },
+            "GhNyH": {
+              "content": "当前为 SVIP 月度订阅，覆盖加密上传、在线解锁、版本恢复和多设备管理。"
+            }
+          }
+        },
+        {
+          "id": "E3zHR",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "subCardD1",
+          "descendants": {
+            "YpWCT": {
+              "content": "权益范围"
+            },
+            "z5XEe": {
+              "content": "4 TB 空间 + 高级协作"
+            },
+            "dxp38": {
+              "content": "包含 4 TB 存储、加密上传、在线解锁、外链权限控制、版本回溯和 5 台设备同步。"
+            }
+          }
+        },
+        {
+          "id": "Jg7x3",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "subCardD2",
+          "descendants": {
+            "YpWCT": {
+              "content": "续费周期"
+            },
+            "z5XEe": {
+              "content": "自动续费已开启"
+            },
+            "dxp38": {
+              "content": "当前周期将在 2026-04-30 自动扣费，如需降级或切换年付可在续费日前完成。"
+            }
+          }
+        },
+        {
+          "id": "8qJT1",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "subRowD1",
+          "descendants": {
+            "3DsHd": {
+              "content": "下次扣费"
+            },
+            "j0Bhe": {
+              "content": "2026-04-30"
+            }
+          }
+        },
+        {
+          "id": "FJbhT",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "subRowD2",
+          "descendants": {
+            "3DsHd": {
+              "content": "已绑定设备"
+            },
+            "j0Bhe": {
+              "content": "3 / 5 台"
+            }
+          }
+        },
+        {
+          "id": "Qqrly",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "subActionD",
+          "descendants": {
+            "EPOJY": {
+              "content": "管理付款"
+            },
+            "gZ71e": {
+              "content": "调整套餐"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "oG4eH",
+      "x": 13040,
+      "y": 6300,
+      "name": "Mobile / Billing Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "E92fF",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "billHeaderD",
+          "descendants": {
+            "XMRWk": {
+              "content": "账单"
+            },
+            "f1Jrs": {
+              "content": "下载账单"
+            },
+            "KEDJq": {
+              "content": "账单与订单"
+            },
+            "1Ezv6": {
+              "content": "账单详情"
+            },
+            "GhNyH": {
+              "content": "订单号 TC-20260330-038，对应本期 SVIP 月费，可继续下载账单或发起售后咨询。"
+            }
+          }
+        },
+        {
+          "id": "SpN63",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "billCardD1",
+          "descendants": {
+            "YpWCT": {
+              "content": "订单状态"
+            },
+            "z5XEe": {
+              "content": "支付成功，已自动续费"
+            },
+            "dxp38": {
+              "content": "本次扣费已完成并同步续费周期，账单已支持开票，退款状态目前为未申请。"
+            }
+          }
+        },
+        {
+          "id": "JZkFr",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "billCardD2",
+          "descendants": {
+            "YpWCT": {
+              "content": "开票与售后"
+            },
+            "z5XEe": {
+              "content": "发票可归档到云盘"
+            },
+            "dxp38": {
+              "content": "如需修改发票抬头或申请售后，可直接跳转到发票详情并查看归档位置。"
+            }
+          }
+        },
+        {
+          "id": "pq3Gx",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "billRowD1",
+          "descendants": {
+            "3DsHd": {
+              "content": "金额"
+            },
+            "j0Bhe": {
+              "content": "¥38"
+            }
+          }
+        },
+        {
+          "id": "BzV4f",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "billRowD2",
+          "descendants": {
+            "3DsHd": {
+              "content": "支付方式"
+            },
+            "j0Bhe": {
+              "content": "Apple Pay"
+            }
+          }
+        },
+        {
+          "id": "9lms4",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "billActionD",
+          "descendants": {
+            "EPOJY": {
+              "content": "联系支持"
+            },
+            "gZ71e": {
+              "content": "下载账单"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "pVcFB",
+      "x": 13450,
+      "y": 6300,
+      "name": "Mobile / Invoice Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "7iZM2",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "invoiceHeaderD",
+          "descendants": {
+            "XMRWk": {
+              "content": "账单"
+            },
+            "f1Jrs": {
+              "content": "打开发票夹"
+            },
+            "KEDJq": {
+              "content": "账单与订单"
+            },
+            "1Ezv6": {
+              "content": "发票与订单详情"
+            },
+            "GhNyH": {
+              "content": "查看发票归档位置、下载入口，以及退款与售后说明，避免重复找记录。"
+            }
+          }
+        },
+        {
+          "id": "ogvzf",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "invoiceCardD1",
+          "descendants": {
+            "YpWCT": {
+              "content": "归档位置"
+            },
+            "z5XEe": {
+              "content": "发票已保存到云盘"
+            },
+            "dxp38": {
+              "content": "系统会把电子发票自动归档到“我的文件 / 发票资料夹”，并与当前订单保持关联。"
+            }
+          }
+        },
+        {
+          "id": "9SE3Q",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "invoiceCardD2",
+          "descendants": {
+            "YpWCT": {
+              "content": "售后说明"
+            },
+            "z5XEe": {
+              "content": "下载与重发都支持"
+            },
+            "dxp38": {
+              "content": "如果邮箱收件失败，可重新发送到新的地址；售后申请会保留订单、发票与退款状态。"
+            }
+          }
+        },
+        {
+          "id": "WuGDx",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "invoiceRowD1",
+          "descendants": {
+            "3DsHd": {
+              "content": "开票状态"
+            },
+            "j0Bhe": {
+              "content": "已开票并归档"
+            }
+          }
+        },
+        {
+          "id": "tnA81",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "invoiceRowD2",
+          "descendants": {
+            "3DsHd": {
+              "content": "归档路径"
+            },
+            "j0Bhe": {
+              "content": "我的文件 / 发票资料夹"
+            }
+          }
+        },
+        {
+          "id": "Sv9M0",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "invoiceActionD",
+          "descendants": {
+            "EPOJY": {
+              "content": "再次发送"
+            },
+            "gZ71e": {
+              "content": "打开发票夹"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "c5Uat",
+      "x": 11400,
+      "y": 7000,
+      "name": "Mobile / Notification Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "OClIU",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "noticeDetailE",
+          "descendants": {
+            "XMRWk": {
+              "content": "通知"
+            },
+            "f1Jrs": {
+              "content": "打开文件"
+            },
+            "KEDJq": {
+              "content": "通知中心"
+            },
+            "1Ezv6": {
+              "content": "通知详情"
+            },
+            "GhNyH": {
+              "content": "这条通知来自分享反馈场景，帮助你快速回到关联文件和受邀人活动。"
+            }
+          }
+        },
+        {
+          "id": "JymLr",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "noticeCardE1",
+          "descendants": {
+            "YpWCT": {
+              "content": "通知正文"
+            },
+            "z5XEe": {
+              "content": "项目报价.pdf 已被查看"
+            },
+            "dxp38": {
+              "content": "张三在今天 08:15 通过外链打开文件，并在报价页停留了 4 分钟，尚未触发下载。"
+            }
+          }
+        },
+        {
+          "id": "P3mHU",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "noticeCardE2",
+          "descendants": {
+            "YpWCT": {
+              "content": "关联动作"
+            },
+            "z5XEe": {
+              "content": "可以继续跟进分享效果"
+            },
+            "dxp38": {
+              "content": "你可以直接打开关联文件、进入分享详情查看接收人轨迹，或把这条通知标记为已读。"
+            }
+          }
+        },
+        {
+          "id": "o6t4O",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "noticeRowE1",
+          "descendants": {
+            "3DsHd": {
+              "content": "通知时间"
+            },
+            "j0Bhe": {
+              "content": "今天 08:15"
+            }
+          }
+        },
+        {
+          "id": "9l8tO",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "noticeRowE2",
+          "descendants": {
+            "3DsHd": {
+              "content": "关联文件"
+            },
+            "j0Bhe": {
+              "content": "项目报价.pdf"
+            }
+          }
+        },
+        {
+          "id": "9nYOk",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "noticeActionE",
+          "descendants": {
+            "EPOJY": {
+              "content": "标记已读"
+            },
+            "gZ71e": {
+              "content": "打开文件"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "3wHmB",
+      "x": 11810,
+      "y": 7000,
+      "name": "Mobile / Version Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "FEQK1",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "versionDetailE",
+          "descendants": {
+            "XMRWk": {
+              "content": "版本"
+            },
+            "f1Jrs": {
+              "content": "预览差异"
+            },
+            "KEDJq": {
+              "content": "版本历史"
+            },
+            "1Ezv6": {
+              "content": "版本详情"
+            },
+            "GhNyH": {
+              "content": "v5 是当前线上版本，新增报价区块与交付说明，并保留完整恢复路径。"
+            }
+          }
+        },
+        {
+          "id": "aswVZ",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "versionCardE1",
+          "descendants": {
+            "YpWCT": {
+              "content": "修改摘要"
+            },
+            "z5XEe": {
+              "content": "报价与交付条款已更新"
+            },
+            "dxp38": {
+              "content": "本次更新增加了报价区块、交付时程与审批备注，适合作为外发前最终确认版。"
+            }
+          }
+        },
+        {
+          "id": "OLtdZ",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "versionCardE2",
+          "descendants": {
+            "YpWCT": {
+              "content": "创建来源"
+            },
+            "z5XEe": {
+              "content": "来自桌面端编辑并同步"
+            },
+            "dxp38": {
+              "content": "该版本由桌面端保存后自动写入版本库，移动端可以查看差异、恢复或分享当前版本。"
+            }
+          }
+        },
+        {
+          "id": "YxbLp",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "versionRowE1",
+          "descendants": {
+            "3DsHd": {
+              "content": "创建时间"
+            },
+            "j0Bhe": {
+              "content": "今天 09:42"
+            }
+          }
+        },
+        {
+          "id": "RMrXO",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "versionRowE2",
+          "descendants": {
+            "3DsHd": {
+              "content": "恢复状态"
+            },
+            "j0Bhe": {
+              "content": "可恢复"
+            }
+          }
+        },
+        {
+          "id": "9P9HS",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "versionActionE",
+          "descendants": {
+            "EPOJY": {
+              "content": "预览差异"
+            },
+            "gZ71e": {
+              "content": "恢复此版本"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "MN6AN",
+      "x": 12220,
+      "y": 7000,
+      "name": "Mobile / Version Compare",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "uATO1",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "compareHeaderE",
+          "descendants": {
+            "XMRWk": {
+              "content": "版本"
+            },
+            "f1Jrs": {
+              "content": "恢复到 v4"
+            },
+            "KEDJq": {
+              "content": "版本历史"
+            },
+            "1Ezv6": {
+              "content": "版本对比"
+            },
+            "GhNyH": {
+              "content": "对比 v4 与 v5 的关键差异，确认恢复动作前的影响范围。"
+            }
+          }
+        },
+        {
+          "id": "YA4Qx",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "compareCardE1",
+          "descendants": {
+            "YpWCT": {
+              "content": "旧版 v4"
+            },
+            "z5XEe": {
+              "content": "签署页已加入，但报价未更新"
+            },
+            "dxp38": {
+              "content": "包含审批备注与签署页面，适合内部评审；缺少最新交付条款与修正后的价格说明。"
+            }
+          }
+        },
+        {
+          "id": "IdOG6",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "compareCardE2",
+          "descendants": {
+            "YpWCT": {
+              "content": "新版 v5"
+            },
+            "z5XEe": {
+              "content": "新增报价区块与交付说明"
+            },
+            "dxp38": {
+              "content": "适合外发客户审阅，已补齐价格说明和时间线，但比旧版多了新的审批标签。"
+            }
+          }
+        },
+        {
+          "id": "0RVIL",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "compareRowE1",
+          "descendants": {
+            "3DsHd": {
+              "content": "差异项"
+            },
+            "j0Bhe": {
+              "content": "3 处正文 + 1 处标签"
+            }
+          }
+        },
+        {
+          "id": "8PIy0",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "compareRowE2",
+          "descendants": {
+            "3DsHd": {
+              "content": "恢复影响"
+            },
+            "j0Bhe": {
+              "content": "当前版本将自动备份"
+            }
+          }
+        },
+        {
+          "id": "lDIt5",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "compareActionE",
+          "descendants": {
+            "EPOJY": {
+              "content": "继续查看"
+            },
+            "gZ71e": {
+              "content": "恢复到 v4"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "WCert",
+      "x": 12630,
+      "y": 7000,
+      "name": "Mobile / Restore Confirm",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "uaC2U",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "restoreHeaderE",
+          "descendants": {
+            "XMRWk": {
+              "content": "版本"
+            },
+            "f1Jrs": {
+              "content": "确认恢复"
+            },
+            "KEDJq": {
+              "content": "版本历史"
+            },
+            "1Ezv6": {
+              "content": "恢复确认"
+            },
+            "GhNyH": {
+              "content": "确认是否将方案说明.pdf 恢复到 v4，同时保留当前 v5 作为备份版本。"
+            }
+          }
+        },
+        {
+          "id": "namLZ",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "restoreCardE1",
+          "descendants": {
+            "YpWCT": {
+              "content": "恢复结果"
+            },
+            "z5XEe": {
+              "content": "当前 v5 会被自动备份"
+            },
+            "dxp38": {
+              "content": "恢复完成后，v4 会成为当前版本，原始 v5 不会丢失，会作为最新备份保留在版本库。"
+            }
+          }
+        },
+        {
+          "id": "XWPiq",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "restoreCardE2",
+          "descendants": {
+            "YpWCT": {
+              "content": "风险提示"
+            },
+            "z5XEe": {
+              "content": "对外分享内容会同步变化"
+            },
+            "dxp38": {
+              "content": "已分享的预览内容会切换到恢复后的版本，请确认客户当前看到的是否需要一起回退。"
+            }
+          }
+        },
+        {
+          "id": "dfT6O",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "restoreRowE1",
+          "descendants": {
+            "3DsHd": {
+              "content": "目标版本"
+            },
+            "j0Bhe": {
+              "content": "v4 · 昨天 18:10"
+            }
+          }
+        },
+        {
+          "id": "zSAQE",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "restoreRowE2",
+          "descendants": {
+            "3DsHd": {
+              "content": "当前备份"
+            },
+            "j0Bhe": {
+              "content": "v5 将自动保留"
+            }
+          }
+        },
+        {
+          "id": "xJVBW",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "restoreActionE",
+          "descendants": {
+            "EPOJY": {
+              "content": "取消"
+            },
+            "gZ71e": {
+              "content": "确认恢复"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "29rJw",
+      "x": 13040,
+      "y": 7000,
+      "name": "Mobile / Trash Detail",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "Ei6Kg",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "trashHeaderF",
+          "descendants": {
+            "XMRWk": {
+              "content": "回收站"
+            },
+            "f1Jrs": {
+              "content": "立即恢复"
+            },
+            "KEDJq": {
+              "content": "回收站"
+            },
+            "1Ezv6": {
+              "content": "回收项详情"
+            },
+            "GhNyH": {
+              "content": "演示视频.mp4 已进入回收站，可查看剩余保留时间、原路径与恢复去向。"
+            }
+          }
+        },
+        {
+          "id": "YyEss",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "trashCardF1",
+          "descendants": {
+            "YpWCT": {
+              "content": "保留时间"
+            },
+            "z5XEe": {
+              "content": "还有 29 天自动清空"
+            },
+            "dxp38": {
+              "content": "在保留期内恢复不会影响原有版本和分享记录，超过期限后将执行永久删除。"
+            }
+          }
+        },
+        {
+          "id": "Jw6vT",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "trashCardF2",
+          "descendants": {
+            "YpWCT": {
+              "content": "恢复去向"
+            },
+            "z5XEe": {
+              "content": "将回到原始项目目录"
+            },
+            "dxp38": {
+              "content": "恢复后文件会回到“项目交付 / 演示素材”，并重新出现在文件网格中，方便继续预览或分享。"
+            }
+          }
+        },
+        {
+          "id": "Mv4Ph",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "trashRowF1",
+          "descendants": {
+            "3DsHd": {
+              "content": "删除时间"
+            },
+            "j0Bhe": {
+              "content": "今天 09:10"
+            }
+          }
+        },
+        {
+          "id": "863qO",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "trashRowF2",
+          "descendants": {
+            "3DsHd": {
+              "content": "原路径"
+            },
+            "j0Bhe": {
+              "content": "项目交付 / 演示素材"
+            }
+          }
+        },
+        {
+          "id": "SzXkn",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "trashActionF",
+          "descendants": {
+            "EPOJY": {
+              "content": "永久删除"
+            },
+            "gZ71e": {
+              "content": "立即恢复"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IiTnx",
+      "x": 13450,
+      "y": 7000,
+      "name": "Mobile / Security & Devices",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "c6UF4",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "securityHeaderF",
+          "descendants": {
+            "XMRWk": {
+              "content": "设置"
+            },
+            "f1Jrs": {
+              "content": "管理验证"
+            },
+            "KEDJq": {
+              "content": "设置"
+            },
+            "1Ezv6": {
+              "content": "安全与设备"
+            },
+            "GhNyH": {
+              "content": "统一管理登录设备、验证方式和可信设备策略，减少移动端解锁失败。"
+            }
+          }
+        },
+        {
+          "id": "0H6vO",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "securityCardF1",
+          "descendants": {
+            "YpWCT": {
+              "content": "设备状态"
+            },
+            "z5XEe": {
+              "content": "3 台设备处于可信状态"
+            },
+            "dxp38": {
+              "content": "当前可信设备包括 iPhone 15、MacBook Pro 和 iPad，可同步密钥提示与常用登录状态。"
+            }
+          }
+        },
+        {
+          "id": "ajkYF",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "securityCardF2",
+          "descendants": {
+            "YpWCT": {
+              "content": "验证策略"
+            },
+            "z5XEe": {
+              "content": "密码 + 生物识别双重校验"
+            },
+            "dxp38": {
+              "content": "分享解锁、账单下载和敏感设置变更会触发更高等级验证，避免误操作或陌生设备访问。"
+            }
+          }
+        },
+        {
+          "id": "aGcIv",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "securityRowF1",
+          "descendants": {
+            "3DsHd": {
+              "content": "最近登录"
+            },
+            "j0Bhe": {
+              "content": "今天 07:58 · iPhone 15"
+            }
+          }
+        },
+        {
+          "id": "gyKLD",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "securityRowF2",
+          "descendants": {
+            "3DsHd": {
+              "content": "额外验证"
+            },
+            "j0Bhe": {
+              "content": "Face ID + 短码"
+            }
+          }
+        },
+        {
+          "id": "AVifn",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "securityActionF",
+          "descendants": {
+            "EPOJY": {
+              "content": "退出其他设备"
+            },
+            "gZ71e": {
+              "content": "管理验证"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "g6Jl0",
+      "x": 11400,
+      "y": 7700,
+      "name": "Mobile / Theme & Language",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "JNOEA",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "themeHeaderF",
+          "descendants": {
+            "XMRWk": {
+              "content": "设置"
+            },
+            "f1Jrs": {
+              "content": "保存偏好"
+            },
+            "KEDJq": {
+              "content": "设置"
+            },
+            "1Ezv6": {
+              "content": "主题与语言"
+            },
+            "GhNyH": {
+              "content": "默认使用浅色模式，也可以切换深色或跟随系统，并随时在中文与 English 间切换。"
+            }
+          }
+        },
+        {
+          "id": "eQfom",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "themeCardF1",
+          "descendants": {
+            "YpWCT": {
+              "content": "主题"
+            },
+            "z5XEe": {
+              "content": "浅色为默认，支持深色"
+            },
+            "dxp38": {
+              "content": "当前推荐浅色模式用于日间浏览，深色模式会沿用同一品牌绿色并提高夜间对比度。"
+            }
+          }
+        },
+        {
+          "id": "PUfen",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "themeCardF2",
+          "descendants": {
+            "YpWCT": {
+              "content": "语言"
+            },
+            "z5XEe": {
+              "content": "中文 / English 可随时切换"
+            },
+            "dxp38": {
+              "content": "语言切换会保留当前导航位置和筛选条件，避免在移动端重新寻找页面。"
+            }
+          }
+        },
+        {
+          "id": "hfrER",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "themeRowF1",
+          "descendants": {
+            "3DsHd": {
+              "content": "当前主题"
+            },
+            "j0Bhe": {
+              "content": "浅色（默认）"
+            }
+          }
+        },
+        {
+          "id": "3CsIk",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "themeRowF2",
+          "descendants": {
+            "3DsHd": {
+              "content": "当前语言"
+            },
+            "j0Bhe": {
+              "content": "简体中文"
+            }
+          }
+        },
+        {
+          "id": "Sf4bT",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "themeActionF",
+          "descendants": {
+            "EPOJY": {
+              "content": "跟随系统"
+            },
+            "gZ71e": {
+              "content": "保存偏好"
+            }
+          }
+        },
+        {
+          "id": "EsQzC",
+          "type": "ref",
+          "ref": "ikZfx",
+          "width": "fill_container",
+          "name": "themeNavC",
+          "descendants": {
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
+            },
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
+            },
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "9wrM4",
+      "x": 11810,
+      "y": 7700,
+      "name": "Mobile / Notification Preferences",
+      "clip": true,
+      "width": 390,
+      "fill": "$surface.primary",
+      "layout": "vertical",
+      "gap": 12,
+      "padding": 16,
+      "children": [
+        {
+          "id": "GgZHq",
+          "type": "ref",
+          "ref": "S4Tuf",
+          "width": "fill_container",
+          "name": "notifyHeaderG",
+          "descendants": {
+            "XMRWk": {
+              "content": "设置"
+            },
+            "f1Jrs": {
+              "content": "保存设置"
+            },
+            "KEDJq": {
+              "content": "设置"
+            },
+            "1Ezv6": {
+              "content": "通知偏好"
+            },
+            "GhNyH": {
+              "content": "为分享反馈、上传完成、安全提醒和账单通知分别设置提醒方式与静默时段。"
+            }
+          }
+        },
+        {
+          "id": "sW9JR",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "notifyCardG1",
+          "descendants": {
+            "YpWCT": {
+              "content": "提醒渠道"
+            },
+            "z5XEe": {
+              "content": "应用内提醒为主，关键项同步推送"
+            },
+            "dxp38": {
+              "content": "文件与分享动态默认应用内提醒，安全和账单类事件会额外发送系统推送，避免错过关键状态。"
+            }
+          }
+        },
+        {
+          "id": "RB6fV",
+          "type": "ref",
+          "ref": "lwTER",
+          "width": "fill_container",
+          "name": "notifyCardG2",
+          "descendants": {
+            "YpWCT": {
+              "content": "静默时段"
+            },
+            "z5XEe": {
+              "content": "23:00 - 07:00 仅保留安全告警"
+            },
+            "dxp38": {
+              "content": "夜间默认屏蔽上传完成和版本更新提醒，但涉及陌生设备登录与账单异常时仍会立即通知。"
+            }
+          }
+        },
+        {
+          "id": "UTkJP",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "notifyRowG1",
+          "descendants": {
+            "3DsHd": {
+              "content": "分享反馈"
+            },
+            "j0Bhe": {
+              "content": "应用内 + 推送"
+            }
+          }
+        },
+        {
+          "id": "GJ2c6",
+          "type": "ref",
+          "ref": "I0Kwn",
+          "width": "fill_container",
+          "name": "notifyRowG2",
+          "descendants": {
+            "3DsHd": {
+              "content": "安全提醒"
+            },
+            "j0Bhe": {
+              "content": "始终开启"
+            }
+          }
+        },
+        {
+          "id": "hGr1V",
+          "type": "ref",
+          "ref": "XrIHt",
+          "width": "fill_container",
+          "name": "notifyActionG",
+          "descendants": {
+            "EPOJY": {
+              "content": "全部静音"
+            },
+            "gZ71e": {
+              "content": "保存设置"
+            }
+          }
+        },
+        {
+          "id": "7xfXp",
+          "type": "ref",
+          "ref": "ikZfx",
+          "width": "fill_container",
+          "name": "notifyNavC",
+          "descendants": {
+            "1CGYp": {
+              "fill": "#2D5E3AFF"
+            },
+            "wCR2X": {
+              "fill": "#FFFFFFFF"
+            },
+            "IEeUb": {
+              "fill": "#FFFFFFFF"
             }
           }
         }
