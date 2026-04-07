@@ -1,0 +1,6 @@
+[submodule "TationCloudDiskFrontend"]
+	path = TationCloudDiskFrontend
+	url = https://github.com/TationSnow/TationCloudDiskFrontend.git
+[submodule "TationCloudDiskBackend"]
+	path = TationCloudDiskBackend
+	url = https://github.com/TationSnow/TationCloudDiskBackend.git
